@@ -18,8 +18,8 @@ This project automates website testing using **Python** and **Selenium WebDriver
 - ChromeDriver auto-managed by Selenium 4 (no manual download needed in most cases)
 
 ## ⚙️ Setup
-pip install -r requirements.txt
-python -m pytest --html=reports/report.html --self-contained-html
+- pip install -r requirements.txt
+- python -m pytest --html=reports/report.html --self-contained-html
 
 ## ▶️ Run Tests
 Create reports folder (first time only):
